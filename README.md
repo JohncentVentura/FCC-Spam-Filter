@@ -1,6 +1,8 @@
-# Spam-Filter
-This project heavily focused on regular expressions. Often shortened to "regex" or "regexp", are patterns that help programmers match, search, and replace text. Regular expressions are powerful, but can be difficult to understand because they use so many special characters.
+# freeCodeCamp - JavaScript Algorithms and Data Structures Certification
+## Side Project: Spam Filter
 
-# Lessons Learned
-* Fundamentals of Regular Expression.
-* About capture groups, positive lookaheads, negative lookaheads, and character classes.
+Regular expressions, often shortened to "regex" or "regexp", are patterns that help programmers match, search, and replace text. Regular expressions are powerful, but can be difficult to understand because they use so many special characters.
+
+In this spam filter project, you'll learn about capture groups, positive lookaheads, negative lookaheads, and other techniques to match any text you want.
+
+### Verify this certification at: In progress...
